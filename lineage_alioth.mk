@@ -17,6 +17,9 @@ $(call inherit-product, device/xiaomi/alioth/device.mk)
 # Quick-Tap
 TARGET_SUPPORTS_QUICK_TAP := true
 
+# Next Gen Assistant
+TARGET_SUPPORTS_NEXT_GEN_ASSISTANT := true
+
 PRODUCT_NAME := lineage_alioth
 PRODUCT_DEVICE := alioth
 PRODUCT_MANUFACTURER := Xiaomi
