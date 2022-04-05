@@ -20,6 +20,9 @@ TARGET_SUPPORTS_QUICK_TAP := true
 # Next Gen Assistant
 TARGET_SUPPORTS_NEXT_GEN_ASSISTANT := true
 
+# Face Unlock
+TARGET_FACE_UNLOCK_SUPPORTED := true
+
 PRODUCT_NAME := lineage_alioth
 PRODUCT_DEVICE := alioth
 PRODUCT_MANUFACTURER := Xiaomi
